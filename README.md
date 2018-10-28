@@ -31,7 +31,7 @@ Chattermon is a terminal based Pokemon battle system. Players create an account,
 
 ## Usage
 
-Play it live on https://chattermon-staging.herokuapp.com
+Play it live on https://chattermonx.herokuapp.com/
 
 ## Requirements
 
