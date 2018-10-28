@@ -1,6 +1,13 @@
 # Chattermon: Gotta Chat'em All
 
-## Team
+## Second Team
+
+  - Vi Chang
+  - Alan Chin
+  - Phil Cho
+  - Dan Roberts
+
+## First Team
 
   - James Terry
   - Chris Messer
